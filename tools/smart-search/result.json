@@ -1,0 +1,162 @@
+{
+  "statements": [
+    {
+      "sourceId": 1,
+      "sourceTitle": "Rayleigh scattering - Wikipedia",
+      "extractedFacts": [
+        {
+          "statement": "Rayleigh scattering causes the blue color of the daytime sky and the reddening of the Sun at sunset.",
+          "relevance": "DIRECT_ANSWER"
+        },
+        {
+          "statement": "The strong wavelength dependence of the Rayleigh scattering (~λ−4) means that shorter (blue) wavelengths are scattered more strongly than longer (red) wavelengths.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "Rayleigh scattering of sunlight in Earth's atmosphere causes diffuse sky radiation, which is the reason for the blue color of the daytime sky.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "The blue color of the sky is a consequence of three factors: the blackbody spectrum of sunlight coming into the Earth's atmosphere, Rayleigh scattering of that light off oxygen and nitrogen molecules, and the response of the human visual system.",
+          "relevance": "HIGHLY_RELEVANT"
+        }
+      ]
+    },
+    {
+      "sourceId": 2,
+      "sourceTitle": "Rayleigh sky model - Wikipedia",
+      "extractedFacts": [
+        {
+          "statement": "The same elastic scattering processes cause the sky to be blue.",
+          "relevance": "DIRECT_ANSWER"
+        },
+        {
+          "statement": "The Rayleigh sky model describes the observed polarization pattern of the daytime sky.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "Rayleigh scattering of light by air molecules, water, dust, and aerosols causes the sky's light to have a defined polarization pattern.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "The polarization is characterized at each wavelength by its degree of polarization and orientation.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        },
+        {
+          "statement": "The polarization pattern of the sky is dependent on the celestial position of the Sun.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        }
+      ]
+    },
+    {
+      "sourceId": 3,
+      "sourceTitle": "Tyndall effect - Wikipedia",
+      "extractedFacts": [
+        {
+          "statement": "the sky's color is blue due to Rayleigh scattering instead of Tyndall scattering because the scattering particles are the air molecules, which are much smaller than the wavelengths of visible light.",
+          "relevance": "DIRECT_ANSWER"
+        },
+        {
+          "statement": "Rayleigh scattering is defined by a mathematical formula that requires the light-scattering particles to be far smaller than the wavelength of the light.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "the intensity of the scattered light is inversely proportional to the fourth power of the wavelength, so blue light is scattered much more strongly than red light.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "Tyndall scattering can be mathematically analyzed in terms of Mie theory, which admits particle sizes in the rough vicinity of the wavelength of light.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        },
+        {
+          "statement": "The Tyndall effect is light scattering by particles in a colloid such as a very fine suspension.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        }
+      ]
+    },
+    {
+      "sourceId": 4,
+      "sourceTitle": "Diffuse sky radiation - Wikipedia",
+      "extractedFacts": [
+        {
+          "statement": "the sky is blue due to Rayleigh scattering",
+          "relevance": "DIRECT_ANSWER"
+        },
+        {
+          "statement": "Earth's atmosphere scatters short-wavelength light more efficiently than that of longer wavelengths.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "Because its wavelengths are shorter, blue light is more strongly scattered than the longer-wavelength lights, red or green.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "When looking at the sky away from the direct incident sunlight, the human eye perceives the sky to be blue.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "Scattering varies as a function of the ratio of particle diameters (of particulates in the atmosphere) to the wavelength of the incident radiation.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        },
+        {
+          "statement": "During broad daylight, the sky is blue due to Rayleigh scattering, while around sunrise or sunset, and especially during twilight, absorption of irradiation by ozone helps maintain blue color in the evening sky.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        }
+      ]
+    },
+    {
+      "sourceId": 5,
+      "sourceTitle": "Mie scattering - Wikipedia",
+      "extractedFacts": [
+        {
+          "statement": "The blue colour of the sky results from Rayleigh scattering, as the size of the gas particles in the atmosphere is much smaller than the wavelength of visible light.",
+          "relevance": "DIRECT_ANSWER"
+        },
+        {
+          "statement": "Rayleigh scattering is much greater for blue light than for other colours due to its shorter wavelength.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "As sunlight passes through the atmosphere, its blue component is Rayleigh scattered strongly by atmospheric gases but the longer wavelength (e.g. red/yellow) components are not.",
+          "relevance": "HIGHLY_RELEVANT"
+        },
+        {
+          "statement": "During sunrises and sunsets, the effect of Rayleigh scattering on the spectrum of the transmitted light is much greater due to the greater distance the light rays have to travel through the high-density air near the Earth's surface.",
+          "relevance": "SOMEWHAT_RELEVANT"
+        },
+        {
+          "statement": "The grey/white colour of the clouds is caused by Mie scattering by water droplets, which are of a comparable size to the wavelengths of visible light.",
+          "relevance": "TANGENTIAL"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://en.wikipedia.org/wiki/Rayleigh_scattering",
+      "title": "Rayleigh scattering - Wikipedia"
+    },
+    {
+      "id": 2,
+      "url": "https://en.m.wikipedia.org/wiki/Rayleigh_sky_model",
+      "title": "Rayleigh sky model - Wikipedia"
+    },
+    {
+      "id": 3,
+      "url": "https://en.m.wikipedia.org/wiki/Tyndall_effect",
+      "title": "Tyndall effect - Wikipedia"
+    },
+    {
+      "id": 4,
+      "url": "https://en.wikipedia.org/wiki/Diffuse_sky_radiation",
+      "title": "Diffuse sky radiation - Wikipedia"
+    },
+    {
+      "id": 5,
+      "url": "https://en.m.wikipedia.org/wiki/Mie_scattering",
+      "title": "Mie scattering - Wikipedia"
+    }
+  ],
+  "response": "The blue color of the daytime sky is primarily the result of Rayleigh scattering, which occurs when sunlight interacts with the air molecules in Earth's atmosphere. Rayleigh scattering is characterized by the phenomenon that shorter wavelengths of light (such as blue) are scattered more effectively than longer wavelengths (like red). This scattering is inversely proportional to the fourth power of the wavelength, meaning that as the wavelength decreases, the scattering increases significantly. Specifically, blue light experiences much stronger scattering than red light, which is why we perceive the sky as blue during the day【1】【3】【5】.\n\nThe blue appearance of the sky is influenced by various factors, including the blackbody spectrum of sunlight, the dynamic interaction between sunlight and the atmospheric gases (mainly oxygen and nitrogen), and the sensitivity of the human visual system to different wavelengths of light. Additionally, Rayleigh scattering not only contributes to the blue color of the sky but also leads to the reddening of the sun seen during sunrise and sunset. This phenomenon occurs because, at these times, sunlight passes through a greater thickness of the atmosphere, further scattering shorter wavelengths and allowing longer wavelengths (red and orange) to dominate our view【1】【4】【5】.\n\nThe Rayleigh sky model further explains that the scattering processes are elastic, which means that they do not change the energy of the light being scattered. This model also describes the polarization patterns of light in the sky, which depend on the position of the sun, but these aspects are less critical to understanding why the sky appears blue【2】.\n\nIn summary, the blue color of the sky results from Rayleigh scattering, a process by which smaller particles in the atmosphere scatter shorter wavelengths of light more effectively than longer wavelengths, leading to our perception of a blue sky during the day.\n\nFollow-up Questions:\n- How does the position of the sun affect the color of the sky at different times of day?\n- What role does atmospheric composition play in the scattering of light and the color of the sky?\n- How do phenomena like pollution or moisture impact the color of the sky?\n- Can Rayleigh scattering be observed in other planetary atmospheres, and if so, what differences are noted?\n\nSources:\n[1] Rayleigh scattering - Wikipedia (https://en.wikipedia.org/wiki/Rayleigh_scattering)  \n[2] Rayleigh sky model - Wikipedia (https://en.m.wikipedia.org/wiki/Rayleigh_sky_model)  \n[3] Tyndall effect - Wikipedia (https://en.m.wikipedia.org/wiki/Tyndall_effect)  \n[4] Diffuse sky radiation - Wikipedia (https://en.wikipedia.org/wiki/Diffuse_sky_radiation)  \n[5] Mie scattering - Wikipedia (https://en.m.wikipedia.org/wiki/Mie_scattering)  "
+}
